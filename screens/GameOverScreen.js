@@ -25,6 +25,7 @@ function GameOverScreen({roundsNumber, userNumber, onStartNewGame}) {
 
 export default GameOverScreen;
 
+
 const styles = StyleSheet.create({
   rootContainer: {
     flex: 1,
